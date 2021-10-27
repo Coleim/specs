@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.78.0](https://www.github.com/Coleim/specs/compare/v0.77.0...v0.78.0) (2021-10-27)
+
+
+### Features
+
+* fix typos ([7dbb66f](https://www.github.com/Coleim/specs/commit/7dbb66f68ce516057ba2dd4ee9ead6cf84a33f0c))
+
 ## [0.77.0](https://www.github.com/Toaztr/specs/compare/v0.76.0...v0.77.0) (2021-10-26)
 
 
